@@ -17,3 +17,8 @@ deployment
 
 
  ## stage area
+
+ stage area actual old line is commit
+
+
+ this is at working directory
