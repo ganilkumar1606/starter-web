@@ -14,3 +14,6 @@ Sample website with plenty of files for demos
  purpose
 deployment 
  how to contribute
+
+
+ ## stage area
