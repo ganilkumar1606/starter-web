@@ -12,5 +12,5 @@ Sample website with plenty of files for demos
  introduction 
  
  purpose
- 
+deployment 
  how to contribute
